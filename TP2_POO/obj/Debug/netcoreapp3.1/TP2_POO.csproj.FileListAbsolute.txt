@@ -1,0 +1,26 @@
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.exe
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.deps.json
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.runtimeconfig.json
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.runtimeconfig.dev.json
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.dll
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.pdb
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.csprojAssemblyReference.cache
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.AssemblyInfoInputs.cache
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.AssemblyInfo.cs
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.csproj.CoreCompileInputs.cache
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.dll
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.pdb
+Z:\PERSO-SIO1\SEMESTRE2\SLAM\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.genruntimeconfig.cache
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.exe
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.deps.json
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.runtimeconfig.json
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.runtimeconfig.dev.json
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.dll
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\bin\Debug\netcoreapp3.1\TP2_POO.pdb
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.csprojAssemblyReference.cache
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.AssemblyInfo.cs
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.dll
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.pdb
+C:\Users\thais\Desktop\BTS SIO 1\bloc 2\tp\TP2_POO\TP2_POO\obj\Debug\netcoreapp3.1\TP2_POO.genruntimeconfig.cache

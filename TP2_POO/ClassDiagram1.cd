@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TP2_POO.Pokemon">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEQAAAAEAAACACAAAABAAAAEAAAAACA=</HashCode>
+      <FileName>Pokemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_POO.Program" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_POO.Sportif">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAgAgEAAABEAACAAAgAABEAAAAAAAAAAAA=</HashCode>
+      <FileName>Sportif.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_POO.DesMers">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAiAAAA=</HashCode>
+      <FileName>DesMers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_POO.Casanier">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAgAgAABABEAACAIAgAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Casanier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
